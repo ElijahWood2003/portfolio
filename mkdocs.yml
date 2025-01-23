@@ -6,6 +6,7 @@ theme:
 nav:
   - 'index.md'
   - 'ttgen.md'
+  - 'energy_estimates.md'
   - 'about.md'
 
 plugins: []
