@@ -1,3 +1,4 @@
 site_name: Elijah Wood's Portfolio
 theme:
-  name: material
+  name: mkdocs
+  color_mode: dark
