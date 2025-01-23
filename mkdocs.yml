@@ -2,3 +2,10 @@ site_name: Elijah Wood's Portfolio
 theme:
   name: mkdocs
   color_mode: dark
+
+nav:
+  - 'index.md'
+  - 'ttgen.md'
+  - 'about.md'
+
+plugins: []
