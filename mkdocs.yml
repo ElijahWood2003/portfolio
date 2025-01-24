@@ -6,6 +6,7 @@ theme:
 
 nav:
   - 'index.md'
+  - 'music-key-ml.md'
   - 'ttgen.md'
   - 'cookbook_website.md'
   - 'energy_estimates.md'
