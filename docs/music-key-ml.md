@@ -5,8 +5,9 @@
 >
 > Collaborators: Ivan Fuentes, Carmine Falconi
 >
-> [Github]()
+> [Github](https://github.com/ElijahWood2003/audio-key-ml)
 
-<p>A ML project I am currently working on with a small group of friends. The idea is to train a machine on a large data set of music with the goal of teaching it how to fluidly find the musical key being played for live music.</p>
+A ML project I am currently working on with a small group of friends. The idea is to train a machine on a large data set of music with the goal of teaching it how to fluidly find the musical key being played for live music.
 
-<p>I am building the entire software (ML), while the other collaborators are working on the hardware and UI. I am using Tensorflow for training the machine and Librosa to convert audio into spectrograms.</p>
+### Creating the Dataset
+To create a large dataset with minimal manual labor, I have created a script which takes in a list of text in the format: ```[YouTube-music URL], [key-signature]```
