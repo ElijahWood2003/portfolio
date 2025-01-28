@@ -5,8 +5,8 @@
 >
 > [Github](https://github.com/ElijahWood2003/truth-table-generator) 
 
-<p>I wrote this over winter break in 2023 with the goal of creating an auto-generating truth table. I was curious to find the best way to parse something like a truth statement for variables and operators.</p>
-<p>I found the solution was using a recursive function which finds the "least significant operator" to split the left and right sides into smaller subproblems. I created a set of rules to find the least significant operator, as well as a set of rules to find valid versus invalid statements.</p>
+<p>During the winter break of 2023, I developed a project that was aimed at being able to automatically generate truth tables. I was motivated to discover the most efficient method for parsing logic statements for boolean values and variable operators.</p>
+<p>To find the solution, I used a recursive function to find the "least significant evaluator" to split the left and right sides into smaller subproblems. To enhance the functionality of this method, I established a comprehensive set of rules to assist the identification of the least significant operators and associate valid </p>
 
 ![TTG Screenshot 1](images/ttg_scn1.png "TTG Screenshot 1")
 

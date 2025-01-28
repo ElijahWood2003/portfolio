@@ -1,6 +1,6 @@
 # About Me
 
-<p>I'm a Computer Science Major at UNC Chapel Hill with an expected graduation in Fall 2025.</p> 
-<p>I'm fluent in Java, Python, C, and C++, with experience in HTML, CSS, Rust, and assembly. I'm specifically interested in software engineering, artifical intelligence, and machine learning. </p>
+<p>I am currently pursuing a degree in Computer Science at the University of North Carolina at Chapel Hill with an anticipated graduation date of Fall 2025.</p> 
+<p>I possess proficiency in Javas, Python, and C, and have practical experience with HTML, CSS, Rust, and assembly languages. My specific areas of interest include software engineering, data science, and machine learning.</p>
 
 Contact: **elijahdwood@gmail.com**
