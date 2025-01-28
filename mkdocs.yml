@@ -12,4 +12,7 @@ nav:
   - 'energy_estimates.md'
   - 'about.md'
 
+markdown_extensions:
+  - md_in_html
+
 plugins: []
