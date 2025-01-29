@@ -4,7 +4,7 @@ theme:
   color_mode: dark
   use_color_mode_toggle: true
 
-site_url: https://username.github.io/project-name/
+site_url: https://ElijahWood2003.github.io/portfolio/
 
 nav:
   - 'index.md'
