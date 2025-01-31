@@ -1,4 +1,4 @@
-# Cookbook
+# Cookbook Website
 > #### Date created: November 2024
 >
 > ##### Written in: **JavaScript, CSS, SQL**
