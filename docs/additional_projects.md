@@ -4,9 +4,8 @@
 - Built with MkDocs and inline HTML/CSS
 
 ### [Algorithms and Analysis](https://github.com/ElijahWood2003/algorithms-and-analysis): Functions Written for Algorithms and Analysis
-- Written for my Algorithms and Analysis class
 - Included functions: BFS, DFS, Bellman-Ford, and LIS
-- A full list of functions is on the Github
+- A full list of functions is available on the Github
 
 ### [Comp 423 Course Notes](https://github.com/ElijahWood2003/comp423-course-notes): Notes for Intro to Software Engineering
 - Includes a beginner-friendly tutorial to Rust
