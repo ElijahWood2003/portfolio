@@ -7,7 +7,8 @@
 >
 > [Github](https://github.com/ElijahWood2003/audio-key-ml)
 
-This is a collaborative machine learning project that I am currently engaged on with a small team of colleagues. The objective is to train a machine learning model using an extensive dataset of music to enable the model to find the key-signature of live music being performed.
+<p>This is a collaborative machine learning project that I am currently engaged on with a small team of colleagues. The objective is to train a machine learning model using an extensive dataset of music to enable the model to find the key-signature of live music being performed.</p>
+<p>The model is a CNN (Convolutional Neural Network) built using Tensorflow/Keras. It has several layers each for increased pattern recognition. The current version of the model can be found in the GitHub in <em>/models</em>.</p>
 
 ### Creating the Dataset
 To create a large dataset with minimal manual labor, I have created a script which takes in a list of text in the format: 
