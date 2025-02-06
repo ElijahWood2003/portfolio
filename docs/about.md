@@ -9,7 +9,7 @@
         <p>Recently, in my projects and research, I've been directing that focus on building machine learning models. I’m excited to push the boundaries of machine learning, finding new ways to make intelligent systems more intuitive, efficient, and impactful.</p>
 
         <p style="margin-bottom: 0;">Contact: <strong>elijahdwood@gmail.com</strong></p>
-        <p style="margin-top: 2px;"><a href="https://www.linkedin.com/in/elijah-wood-2443372b1/" target="_blank">LinkedIn</a></p>
+        <p style="margin-top: 2px;"><a href="https://www.linkedin.com/in/ewood03" target="_blank">LinkedIn</a></p>
     </div>
     <img src="https://elijahwood2003.github.io/portfolio/images/me.png" alt="Picture" style="width: 200px; margin-left: 50px;">
 </div>
