@@ -1,13 +1,11 @@
-# Music Key ML
+# MusAIc
 > #### Date created: December 2024 - Current
 >
-> ##### Written in: **Python, SwiftUI**
+> ##### Written in: **Python**
 >
-> Collaborators: Ivan Fuentes, Carmine Falconi
->
-> [Github](https://github.com/ElijahWood2003/audio-key-ml)
+> [Github](https://github.com/ElijahWood2003/musaic)
 
-<p>This is a collaborative machine learning project that I am currently engaged on with a small team of colleagues. The objective is to train a machine learning model using an extensive dataset of music to enable the model to find the key-signature of live music being performed.</p>
+<p>This is a collaborative machine learning project that I am currently engaged on. The objective is to train a machine learning model using an extensive dataset of music to enable the model to find the key-signature of live music being performed.</p>
 <p>The model is a CNN (Convolutional Neural Network) built using Tensorflow/Keras. It has several layers each for increased pattern recognition. The current version of the model can be found in Github under <em>/models</em>.</p>
 
 ### Creating the Dataset

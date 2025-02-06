@@ -26,7 +26,7 @@ theme:
 
 nav:
   - 'index.md'
-  - 'music_key_ml.md'
+  - 'musaic.md'
   - 'ttgen.md'
   - 'cookbook_website.md'
   - 'energy_estimates.md'
