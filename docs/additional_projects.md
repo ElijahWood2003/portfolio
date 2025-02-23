@@ -15,6 +15,10 @@
 - Written for my APCS A final project
 - Make moves and play checkers through the terminal
 
+### [Markov Renderer](https://github.com/ElijahWood2003/markov-renderer): Markov Chain Renderer
+- Simulates a Markov chain with any number of states and connections
+- Draws a UI and simulates the Markov chain based on the transition matrix
+
 ### [Senior Capstone](https://github.com/ElijahWood2003/senior-capstone): Highschool Senior Capstone
 - Arcade style survival game
 - Created in GameMaker Studio
